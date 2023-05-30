@@ -2,7 +2,7 @@
 
 The library includes **ft_printf** and **libft**.
 
-Which means you must use `#include "ft_printf.h"` or `#include "libft.h"`
+Which means you will have to add `#include "ft_printf.h"` and / or `#include "libft.h"` on your file.
 
 You have to tell the file where your library resides and which library it is using:
 ```
